@@ -5,5 +5,5 @@
             -requerimientos: objeto tipo estudiante
             -efecto: Creacion de un nodo con carnet y nombre de estudiante
       - Mostrar()
-            -efecto: Muestra la informacion de cada nodo       
+            -efecto: Muestra la informacion de cada       
      
