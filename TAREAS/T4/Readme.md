@@ -1,0 +1,12 @@
+- ## ListaDoblementeEnlazada = *Tipos de datos son,Insertar Primero, EliminarUltimo, Buscar
+- ## Descripcion: *TDA para la creacion de una Lista Doblemente Enlazada
+- ## Operaciones:
+      - AgregarPrimero(char)
+            -requerimientos: ingresar un caracter
+            -efecto: agrega un nuevo nodo al inicio de la lista
+      - EliminarUltimo
+            -efecto: Elimina el ultimo nodo de la lista
+      - Buscar(string)
+            -requerimientos: ingresar una cadena 
+            -efecto: busca la cadena ingresada en la lista, y si encuentra devuelve el nodo que contiene el primer caracter de la cadena      
+     
